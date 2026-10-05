@@ -15,22 +15,34 @@ An on-premise static application security testing (SAST) platform that uses a lo
 
 ## Screenshots
 
+## Screenshots
+
 ### Dashboard
-![Dashboard](docs/screenshots/dashboard.jpeg)
+<p align="center">
+  <img src="docs/screenshots/dashboard.jpeg" alt="Dashboard" width="50%">
+</p>
 
 ### Code Editor
-![Code Editor](docs/screenshots/codeEditor.jpeg)
+<p align="center">
+  <img src="docs/screenshots/codeEditor.jpeg" alt="Code Editor" width="50%">
+</p>
 
 ### Scan Results
-![Scan Results 1](docs/screenshots/scanresults1.jpeg)
-![Scan Results 2](docs/screenshots/scanresults2.jpeg)
-![Scan Results 3](docs/screenshots/scanresults3.jpeg)
+<p align="center">
+  <img src="docs/screenshots/scanresults1.jpeg" alt="Scan Results 1" width="32%">
+  <img src="docs/screenshots/scanresults2.jpeg" alt="Scan Results 2" width="32%">
+  <img src="docs/screenshots/scanresults3.jpeg" alt="Scan Results 3" width="32%">
+</p>
 
 ### History
-![History](docs/screenshots/history.jpeg)
+<p align="center">
+  <img src="docs/screenshots/history.jpeg" alt="History" width="50%">
+</p>
 
 ### Analytics
-![Analytics](docs/screenshots/analytics.png)
+<p align="center">
+  <img src="docs/screenshots/analytics.png" alt="Analytics" width="50%">
+</p>
 
 ---
 
