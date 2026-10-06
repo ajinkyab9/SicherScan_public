@@ -15,8 +15,6 @@ An on-premise static application security testing (SAST) platform that uses a lo
 
 ## Screenshots
 
-## Screenshots
-
 ### Dashboard
 <p align="center">
   <img src="docs/screenshots/dashboard.jpeg" alt="Dashboard" width="50%">
